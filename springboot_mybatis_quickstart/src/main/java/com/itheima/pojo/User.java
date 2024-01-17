@@ -7,6 +7,7 @@ public class User {
     private short gender;
     private String phone;
     //测试git
+    //测试git2
 
     public User() {
     }
