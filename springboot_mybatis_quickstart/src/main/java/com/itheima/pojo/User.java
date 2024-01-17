@@ -8,6 +8,7 @@ public class User {
     private String phone;
     //测试git
     //测试git2
+    //测试hotfix
 
     public User() {
     }
